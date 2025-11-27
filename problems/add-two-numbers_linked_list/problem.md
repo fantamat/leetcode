@@ -33,3 +33,14 @@ Constraints:
 
 
 
+
+
+## Result
+
+Runtime
+0ms
+Beats100.00%
+
+Memory
+76.67MB
+Beats96.98%
